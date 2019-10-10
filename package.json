@@ -1,5 +1,5 @@
 {
-  "name": "nodepackagetest",
+  "name": "@mate-kk/nodepackagetest",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
